@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Tentang Aplikasi E-Todolist
+
+Aplikasi ini berbasis Laravel 11, kode dasar didapat dari Channel Youtube "Programming Di Rumahrafif" dengan beberapa modifikasi seperti penambahan fitur Tags, dan lain lain.
+Saya akan mengembangkan aplikasi ini lebih lanjut dengan beberapa fitur tambahan.
+
+## Free to Copy and About Me
+
+Aplikasi ini bebas digunakan untuk proyek Anda, dengan tetap mencantumkan kredit kepada Programming Di Rumahrafif dan saya. Segala bentuk penyalahgunaan aplikasi di luar tanggung jawab saya.
+
+Saya ingin mendedikasikan apa yang saya pelajari selama menjadi programmer ke dalam akun gihtub ini (https://github.com/dhanielfaraby) . Di sini, saya akan membuat beberapa aplikasi CRUD sederhana menggunakan Tech Stack populer seperti React, Laravel, dan lainnya. Harapannya, aplikasi-aplikasi ini bisa membantu teman-teman, terutama mahasiswa, dalam mengerjakan proyek tugas atau pekerjaan freelance mereka.
+
+Terima kasih sudah berkunjung dan semoga bermanfaat!
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
